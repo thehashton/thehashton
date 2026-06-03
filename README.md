@@ -1,6 +1,6 @@
 ## Hi I'm Harry Ashton
 
-I'm a Ex-Lead/Senior Frontend Developer. I have over 11 years experience in commercial frontend development, working in product teams, leading engineering teams and even coaching other frontend developers of all levels to get better at their craft or even get a new job. My specialisations are Complex UI, Accessibility, Design Systems and UI Architecture.
+I'm an Ex-Lead/Senior Frontend Developer. I have over 11 years experience in commercial frontend development, working in product teams, leading engineering teams and even coaching other frontend developers of all levels to get better at their craft or even get a new job. My specialisations are Complex UI, Accessibility, Design Systems and UI Architecture.
 
 # Repositories
 
