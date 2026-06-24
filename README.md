@@ -4,4 +4,4 @@ I'm an Ex-Lead/Senior Frontend Developer. I have over 11 years experience in com
 
 # Repositories
 
-Just to note, my current repositories are commercial apps and are therefore private but I primarily work with NextJS, TypeScript, ShadnCN, Tailwind CSS, Zod, PostGres SQL and much more.
+Just to note, my current repositories are commercial apps and are therefore private but I primarily work with NextJS, TypeScript, ShadnCN, Tailwind CSS, Zod, PostGres SQL and much more. I love making useful developer tools as well within teams.
