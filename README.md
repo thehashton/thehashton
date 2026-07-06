@@ -4,10 +4,18 @@ I'm an Ex-Lead/Senior Frontend Developer. I have over 11 years experience in com
 
 # Repositories
 
-Just to note, my current repositories are commercial apps and are therefore mostly private but I primarily work with NextJS, TypeScript, ShadnCN, Tailwind CSS, Zod, PostGres SQL, Python and much more. I love making useful developer tools as well within teams.
+Just to note, my current repositories are commercial apps and are therefore mostly private but I primarily work with NextJS, TypeScript, ShadnCN, Tailwind CSS, Zod, PostGres SQL, Python, Webpack, pnpm and much more. I love making useful developer tools as well within teams.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,shadcn,tailwind,zod,postgres,py" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts" alt="My Skills" />
+  </a>
+  <img src="assets/icons/shadcn.svg" height="48" alt="shadcn/ui" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="My Skills" />
+  </a>
+  <img src="assets/icons/zod.svg" height="48" alt="Zod" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,py,webpack,pnpm" alt="My Skills" />
   </a>
 </p>
