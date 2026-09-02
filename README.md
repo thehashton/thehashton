@@ -2,6 +2,12 @@
 
 I'm a Senior Frontend/Product Engineer. I have over 11 years experience in commercial frontend development, working in product teams, leading engineering teams and even coaching other frontend developers of all levels to get better at their craft or even get a new job. My specialisations are Complex UI, Accessibility, Design Systems and UI Architecture.
 
+## Products & Studio
+
+- [CodePrepped](https://codeprepped.com) — daily frontend interview prep
+- [Hashton Agency](https://www.hashton.agency) — websites, apps, and automation for East Midlands businesses
+- [hashton.dev](https://hashton.dev) — engineering portfolio
+
 ## Repositories
 
 Just to note, my current repositories are commercial apps and are therefore mostly private but I primarily work with NextJS, TypeScript, ShadnCN, Tailwind CSS, Zod, PostGres SQL, Python, Webpack, pnpm and much more. I love making useful developer tools as well within teams.
